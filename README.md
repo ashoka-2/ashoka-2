@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101012,100:c9739d&height=120&section=header" width="100%" alt="">
 
-<img src="./assets/ashok-dots.gif" width="520" alt="Portrait of Ashok Kumar made of particles">
+<img src="./ashok-dots.gif" width="520" alt="Portrait of Ashok Kumar made of particles">
 
 # Ashok Kumar
 
