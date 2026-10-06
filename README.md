@@ -1,337 +1,119 @@
 <div align="center">
 
-# ASHOK KUMAR
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101012,100:c9739d&height=120&section=header" width="100%" alt="">
 
-### SOFTWARE DEVELOPER · AI ENTHUSIAST · CREATIVE TECHNOLOGIST
+<img src="./assets/ashok-dots.gif" width="520" alt="Portrait of Ashok Kumar made of particles">
 
-<img src="./assets/ashok-dots.gif" width="420" alt="Ashok Kumar">
+# Ashok Kumar
+
+<a href="https://github.com/ashoka-2">
+<img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=700&size=22&duration=3200&pause=1100&color=C9739D&center=true&vCenter=true&width=640&lines=Software+developer;AI+enthusiast;Creative+technologist;Building+at+the+intersection+of+software%2C+AI+and+creativity." alt="Software developer, AI enthusiast, creative technologist">
+</a>
+
+<sub>Kerala, India &nbsp;|&nbsp; BCA student &nbsp;|&nbsp; call me **Ashok Bhai**</sub>
 
 <br>
 
-`KERALA, INDIA` &nbsp;·&nbsp; `BCA STUDENT` &nbsp;·&nbsp; `SOFTWARE DEVELOPMENT` &nbsp;·&nbsp; `AI`
-
-<br><br>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub">
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn">
-</a>
-&nbsp;
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Portfolio">
-</a>
+<a href="https://github.com/ashoka-2"><img src="https://img.shields.io/badge/GitHub-ECE8E2?style=for-the-badge&logo=github&logoColor=101012" alt="GitHub"></a>
+<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-ECE8E2?style=for-the-badge&logo=linkedin&logoColor=101012" alt="LinkedIn"></a>
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-C9739D?style=for-the-badge&logo=googlechrome&logoColor=101012" alt="Portfolio"></a>
 
 </div>
 
 <br>
 
----
+## About
 
-## `01 / WHO I AM`
+I'm a BCA student from Kerala, curious about **software engineering, AI, modern web technology, UI/UX and creative technology**.
 
-I’m **Ashok Kumar**, a BCA student from **Kerala, India**, interested in the intersection of **software engineering, artificial intelligence, modern web development, UI/UX and creative technology**.
+I learn by building. I like trying new ideas, understanding *why* something works, and joining engineering with visual design, so the things I make are fast, clear and feel good to use.
 
-I enjoy learning by building, experimenting with new technologies and understanding how different systems work together.
-
-I don't want to be restricted to one technology or one area of development.
-
-I like exploring the complete journey:
-
-**Idea → Design → Code → AI → Interaction → Deployment → Experience**
-
----
-
-## `02 / ABOUT`
+> **Good software should not only work. It should feel good to use.**
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### PERSONAL
-
-**Name**  
-Ashok Kumar
-
-**Preferred name**  
-Ashok Bhai
-
-**Location**  
-Kerala, India
-
-**Role**  
-Software Developer / Developer in Progress
-
-</td>
-
-<td width="50%" valign="top">
-
-### EDUCATION
-
-**Degree**  
-Bachelor of Computer Applications
-
-**College**  
-Sree Narayana Guru College of Advanced Studies
-
-**Location**  
+**Studying**  
+Bachelor of Computer Applications  
+Sree Narayana Guru College of Advanced Studies  
 Thottada, Kannur, Kerala
 
-**Field**  
-Computer Applications
+</td>
+<td width="50%" valign="top">
+
+**Interested in**  
+Full-stack and mobile development  
+Generative AI and AI agents  
+Computer vision  
+Motion design and interactive interfaces
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## `03 / WHAT I DO`
-
-### SOFTWARE DEVELOPMENT
-
-I enjoy building software across frontend, backend and application development.
-
-I like understanding how complete systems work — from interfaces and APIs to databases, services and deployment.
-
-### ARTIFICIAL INTELLIGENCE
-
-I'm interested in:
-
-- Generative AI
-- AI applications
-- AI agents
-- Computer vision
-- AI-powered software
-- Automation
-
-I enjoy experimenting with AI and exploring how intelligent systems can become useful parts of real applications.
-
-### WEB DEVELOPMENT
-
-I enjoy creating modern web experiences with a focus on:
-
-- Responsive interfaces
-- Component-based development
-- APIs
-- Performance
-- Interaction
-- Animation
-- Visual design
-
-### CREATIVE TECHNOLOGY
-
-I enjoy combining engineering with design.
-
-For me:
-
-**CODE + DESIGN + MOTION + INTERACTION = EXPERIENCE**
-
----
-
-## `04 / TECHNOLOGY`
+## Tools I work with
 
 <div align="center">
 
-### LANGUAGES
+<sub>Languages</sub><br>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python&theme=dark" height="48" alt="JavaScript, TypeScript, Python">
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python&theme=dark" height="55">
+<sub>Development</sub><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,django,fastapi&theme=dark" height="48" alt="React, Next.js, Flutter, Django, FastAPI">
 
-<br><br>
+<sub>Interface and motion</sub><br>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,threejs,figma&theme=dark" height="48" alt="HTML, CSS, Tailwind, Sass, Three.js, Figma">
+<br>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=101012" alt="GSAP">
+<img src="https://img.shields.io/badge/Framer_Motion-C9739D?style=flat-square&logo=framer&logoColor=101012" alt="Framer Motion">
 
-### WEB & APPLICATION DEVELOPMENT
+<sub>Engineering</sub><br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,vercel&theme=dark" height="48" alt="Git, GitHub, Docker, Kubernetes, AWS, Vercel">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,django,fastapi&theme=dark" height="55">
-
-<br><br>
-
-### FRONTEND & UI
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,sass&theme=dark" height="55">
-
-<br><br>
-
-### CREATIVE DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=threejs,figma&theme=dark" height="55">
-
-<br><br>
-
-### MOTION
-
-<img src="https://skillicons.dev/icons?i=gsap&theme=dark" height="55">
-
-<br><br>
-
-### ENGINEERING
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes&theme=dark" height="55">
-
-<br><br>
-
-### CLOUD & DEPLOYMENT
-
-<img src="https://skillicons.dev/icons?i=aws,vercel,render,firebase&theme=dark" height="55">
+<sub>AI</sub><br>
+<img src="https://img.shields.io/badge/Generative_AI-ECE8E2?style=flat-square&logoColor=101012" alt="Generative AI">
+<img src="https://img.shields.io/badge/AI_Agents-ECE8E2?style=flat-square" alt="AI Agents">
+<img src="https://img.shields.io/badge/Computer_Vision-ECE8E2?style=flat-square" alt="Computer Vision">
+<img src="https://img.shields.io/badge/AI_Applications-ECE8E2?style=flat-square" alt="AI Applications">
 
 </div>
 
----
+<br>
 
-## `05 / MY INTERESTS`
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### SOFTWARE
-
-Full-Stack Development
-
-Web Applications
-
-Mobile Applications
-
-APIs
-
-</td>
-
-<td width="33%" align="center">
-
-### AI
-
-Generative AI
-
-AI Agents
-
-Computer Vision
-
-AI Applications
-
-</td>
-
-<td width="33%" align="center">
-
-### CREATIVE
-
-UI / UX
-
-Motion Design
-
-Interactive Interfaces
-
-Creative Frontend
-
-</td>
-</tr>
-</table>
-
----
-
-## `06 / HOW I THINK`
-
-> **Good software should not only work.  
-> It should feel good to use.**
-
-I care about more than making something technically functional.
-
-I care about:
-
-**Engineering**
-
-**Design**
-
-**Interaction**
-
-**Performance**
-
-**Experience**
-
-I enjoy understanding **why** something works instead of simply making it work.
-
----
-
-## `07 / LEARNING`
-
-I prefer learning through experimentation and building.
-
-Instead of only asking:
-
-`How do I use this technology?`
-
-I like asking:
-
-`What can I build with this technology?`
-
-That mindset keeps me exploring new frameworks, AI tools, development techniques, animation systems and design approaches.
-
----
-
-## `08 / CREATIVE SIDE`
-
-Technology isn't only about writing code.
-
-I enjoy thinking about:
-
-- How an interface feels
-- How motion communicates information
-- How AI changes the way software works
-- How interaction influences experience
-- How design and engineering can work together
-- How a simple idea can become something memorable
-
-That intersection is where I want to keep growing.
-
----
-
-## `09 / CURRENT DIRECTION`
-
-My current direction sits around:
+## Where I'm heading
 
 <div align="center">
 
-**SOFTWARE ENGINEERING**
-
-↓
-
-**ARTIFICIAL INTELLIGENCE**
-
-↓
-
-**MODERN WEB DEVELOPMENT**
-
-↓
-
-**UI / UX**
-
-↓
-
-**MOTION & INTERACTION**
-
-↓
-
-**CREATIVE TECHNOLOGY**
+**Software engineering** &rarr; **Artificial intelligence** &rarr; **Modern web** &rarr; **UI and UX** &rarr; **Motion and interaction** &rarr; **Creative technology**
 
 </div>
 
-My goal is to become a developer who can move comfortably between **engineering, AI and creative development**.
-
----
-
-## `10 / MY MINDSET`
+My goal is to be a developer who moves comfortably between engineering, AI and creative development.
 
 ```text
-LEARN
-  ↓
-EXPERIMENT
-  ↓
-BUILD
-  ↓
-BREAK
-  ↓
-UNDERSTAND
-  ↓
-IMPROVE
-  ↓
-BUILD AGAIN
+learn -> experiment -> build -> break -> understand -> improve -> build again
+```
+
+<br>
+
+## GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashoka-2&theme=transparent&background=101012&ring=C9739D&fire=C9739D&currStreakNum=ECE8E2&sideNums=ECE8E2&currStreakLabel=C9739D&sideLabels=8D8A90&dates=8D8A90&stroke=26252A&hide_border=true" alt="GitHub streak" width="92%">
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ashoka-2&show_icons=true&hide_border=true&bg_color=101012&title_color=C9739D&text_color=ECE8E2&icon_color=C9739D" height="160" alt="GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashoka-2&layout=compact&hide_border=true&bg_color=101012&title_color=C9739D&text_color=ECE8E2" height="160" alt="Top languages">
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashoka-2&bg_color=101012&color=ECE8E2&line=C9739D&point=ECE8E2&area=true&area_color=C9739D&hide_border=true" width="96%" alt="Contribution graph">
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9739d,100:101012&height=90&section=footer" width="100%" alt="">
